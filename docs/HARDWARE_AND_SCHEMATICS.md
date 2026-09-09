@@ -1,4 +1,6 @@
-# Hardware, Schematics & Design Files
+# ArcHound — Hardware, Schematics & Design Files
+
+Community packaging as **ArcHound**. Files originate from ElectroPup (reubenstr).
 
 Complete index of electronics, CAD, BOM, and datasheets included in this fork
 (same files as upstream).
@@ -34,9 +36,9 @@ Board overview: [`pcbs/README.md`](../pcbs/README.md)
 | [`docs/block-diagram.drawio`](block-diagram.drawio) | System block diagram (Draw.io) |
 | [`docs/sources/gamepad-controls.drawio`](sources/gamepad-controls.drawio) | Gamepad mapping |
 | [`docs/sources/motor-layout.drawio`](sources/motor-layout.drawio) | Motor layout |
-| [`images/electro-pup-block-diagram.png`](../images/electro-pup-block-diagram.png) | Rendered architecture diagram |
-| [`images/electro-pup-power-carrier-v1-render.png`](../images/electro-pup-power-carrier-v1-render.png) | Power Carrier render |
-| [`images/electro-pup-auxiliary-board-v1-render.png`](../images/electro-pup-auxiliary-board-v1-render.png) | Aux board render |
+| [`images/archound-block-diagram.png`](../images/archound-block-diagram.png) | Rendered architecture diagram |
+| [`images/archound-power-carrier-v1-render.png`](../images/archound-power-carrier-v1-render.png) | Power Carrier render |
+| [`images/archound-auxiliary-board-v1-render.png`](../images/archound-auxiliary-board-v1-render.png) | Aux board render |
 
 ## CAN bus reference schematics / datasheets
 

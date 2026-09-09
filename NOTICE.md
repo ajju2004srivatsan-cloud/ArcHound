@@ -1,31 +1,26 @@
-# NOTICE — Attribution & Upstream
+# NOTICE — ArcHound
 
-This repository is a **public community fork** of:
+**ArcHound** is the community name for this public GitHub fork.
 
-**[reubenstr/ElectroPup](https://github.com/reubenstr/ElectroPup)**  
-DIY 3D-printed quadruped robot by [reubenstr](https://github.com/reubenstr).
+## Upstream
 
-## Copyright
+Based on **[reubenstr/ElectroPup](https://github.com/reubenstr/ElectroPup)** by
+[reubenstr](https://github.com/reubenstr).
 
-All original design files, firmware, software, CAD, PCB schematics, documentation,
-images, and videos in this repository remain the work and copyright of their
-respective upstream authors (primarily **reubenstr**), unless a file explicitly
-states otherwise.
+Upstream currently has **no LICENSE file**. Original ElectroPup design files
+(CAD, schematics, firmware, sources, original media) remain copyright upstream.
+This fork does **not** claim ownership of that design.
 
-The upstream repository currently publishes **no LICENSE file**. That means the
-original work is **not** under a standard open-source license grant unless the
-author adds one. This fork exists under [GitHub’s Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
-(forking), for community discovery, clearer docs navigation, and easier access to
-the same files.
+## What *is* licensed here
 
-## What this fork changes
+See [`LICENSE`](LICENSE): MIT covers **this fork’s packaging documentation text**
+only (README / NOTICE / hardware index refinements).
 
-Community refinements here are limited to:
+Recolored / overlaid images in `images/` are for community identification as
+ArcHound; underlying photographs and renders remain upstream copyright.
 
-- clearer README / navigation
-- schematics & hardware file index
-- small documentation typo / clarity fixes
+## Community use
 
-**No claim of ownership** of the ElectroPup design is made. Please file hardware
-and design questions on the [upstream issues](https://github.com/reubenstr/ElectroPup/issues)
-when possible, and credit **reubenstr** in any derivative builds you share.
+Credit **reubenstr / ElectroPup** for the robot design. Prefer
+[upstream issues](https://github.com/reubenstr/ElectroPup/issues) for hardware
+design questions.
