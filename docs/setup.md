@@ -10,7 +10,7 @@ The development PC is used to display UI, Mujoco simulation, and charts as well 
 Install VSCode along with extensions:
 - Remote Explorer
 
-Connect to the Raspberry Pi (after setup) using Remove Explorer and install these extensions:
+Connect to the Raspberry Pi (after setup) using Remote Explorer and install these extensions:
 - Python
 
 Select the virtual environment's interpreter:
